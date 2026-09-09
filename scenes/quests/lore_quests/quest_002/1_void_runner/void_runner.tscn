@@ -693,7 +693,7 @@ position = Vector2(1539.3894, 1453.6614)
 scale = Vector2(1.0465368, 1.0148385)
 
 [node name="Tree25" parent="OnTheGround/Forest" unique_id=394935690 instance=ExtResource("10_epkxq")]
-position = Vector2(1174.9999, 705)
+position = Vector2(1180.589, 1250.4479)
 scale = Vector2(1.0719167, 1.1775024)
 
 [node name="Tree26" parent="OnTheGround/Forest" unique_id=633936712 instance=ExtResource("10_epkxq")]
@@ -721,7 +721,7 @@ position = Vector2(1597.069, 1239.7765)
 scale = Vector2(0.9155617, 1.0091922)
 
 [node name="Tree32" parent="OnTheGround/Forest" unique_id=1044197844 instance=ExtResource("10_epkxq")]
-position = Vector2(459, 1169)
+position = Vector2(1282.4269, 1270.6112)
 scale = Vector2(0.86028904, 0.9402178)
 
 [node name="Tree33" parent="OnTheGround/Forest" unique_id=1325530726 instance=ExtResource("10_epkxq")]
@@ -909,7 +909,7 @@ position = Vector2(1812.7712, 1556.8185)
 scale = Vector2(1.1618592, 1.1937333)
 
 [node name="Tree79" parent="OnTheGround/Forest" unique_id=762758517 instance=ExtResource("10_epkxq")]
-position = Vector2(658.9999, 843.99994)
+position = Vector2(886.6161, 1341.4774)
 scale = Vector2(0.9929149, 0.9137347)
 
 [node name="Tree80" parent="OnTheGround/Forest" unique_id=222826030 instance=ExtResource("10_epkxq")]

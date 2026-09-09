@@ -548,15 +548,15 @@ position = Vector2(3132, -622)
 sprite_frames = ExtResource("19_c6u7c")
 
 [node name="Bush32" parent="OnTheGround/Props" unique_id=1510246914 instance=ExtResource("16_unlva")]
-position = Vector2(383, 198)
+position = Vector2(437, 268)
 sprite_frames = ExtResource("19_c6u7c")
 
 [node name="Bush33" parent="OnTheGround/Props" unique_id=1076237516 instance=ExtResource("16_unlva")]
-position = Vector2(476, 338)
+position = Vector2(472, 286)
 sprite_frames = ExtResource("19_c6u7c")
 
 [node name="Bush34" parent="OnTheGround/Props" unique_id=1040925907 instance=ExtResource("16_unlva")]
-position = Vector2(468, 102)
+position = Vector2(504, 254)
 sprite_frames = ExtResource("19_c6u7c")
 
 [node name="Bush35" parent="OnTheGround/Props" unique_id=1493652086 instance=ExtResource("16_unlva")]
